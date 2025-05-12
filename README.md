@@ -1,4 +1,5 @@
 📊 Google Play Store Analytics Dashboard
+
 An interactive web dashboard built using Flask and Plotly to analyze and visualize Google Play Store data. This dashboard provides insights into installs, ratings, and revenue distribution across categories and time frames.
 
 🚀 Features
