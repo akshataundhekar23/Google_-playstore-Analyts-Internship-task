@@ -94,9 +94,10 @@ Last Updated
 ❓ Example Use Cases
 📱 Market analysts can evaluate category-wise performance of apps.
 
-👩‍💻 Author
-Developed by Akshata Undhekar as part of an internship analytics task.
 💼 Developers can explore the relationship between pricing and installs.
 
 🎯 Business analysts can derive insights on timing and app ratings.
+
+👩‍💻 Author
+Developed by Akshat Aundhekar as part of an internship analytics task.
 
