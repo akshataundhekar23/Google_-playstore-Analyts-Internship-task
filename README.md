@@ -34,6 +34,7 @@ Google_-playstore-Analyts-Internship-task/
 
 
 📸 Screenshots
+
 Scatter Plot
 ![image](https://github.com/user-attachments/assets/567f535c-db9d-422c-a27c-292d7f6537f1)
 
