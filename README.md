@@ -27,11 +27,17 @@ HTML/CSS – For frontend styling and layout
 Google_-playstore-Analyts-Internship-task/
 
 ├── internship task/
-│   ├── dashboard.py              # Flask backend with data processing and visualization
+
+│   ├── dashboard.py   # Flask backend with data processing and visualization
+
 │   ├── googleplaystore_merged.csv  # Cleaned Google Play Store dataset
+
 │   ├── templates/
+
 │   │   └── dashboard.html        # HTML template to render the plots
+
 ├── README.md                     # Project documentation
+
 ├── requirements.txt
 
 
