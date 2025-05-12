@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plotly Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Google Play Store Data Analytics</h1>
+    
+    <h2>Revenue vs Installs</h2>
+    <iframe src="{{ url_for('serve_file', filename=revenue_graph) }}"></iframe>
+
+    {% if installs_graph %}
+    <h2>Installs vs Revenue Dual Axis</h2>
+    <iframe src="{{ url_for('serve_file', filename=installs_graph) }}"></iframe>
+    {% else %}
+    <h2>Installs vs Revenue Dual Axis - Not Available at this Time</h2>
+    {% endif %}
+
+    {% if violin_graph %}
+    <h2>Violin Rating Distribution</h2>
+    <iframe src="{{ url_for('serve_file', filename=violin_graph) }}"></iframe>
+    {% else %}
+    <h2>Violin Rating Distribution - Not Available at this Time</h2>
+    {% endif %}
+    
+</body>
+</html>
