@@ -23,7 +23,9 @@ Plotly – For interactive charts
 HTML/CSS – For frontend styling and layout
 
 📁 Project Structure
+
 Google_-playstore-Analyts-Internship-task/
+
 ├── internship task/
 │   ├── dashboard.py              # Flask backend with data processing and visualization
 │   ├── googleplaystore_merged.csv  # Cleaned Google Play Store dataset
