@@ -107,5 +107,6 @@ Last Updated
 🎯 Business analysts can derive insights on timing and app ratings.
 
 👩‍💻 Author
-Developed by Akshat Aundhekar as part of an internship analytics task.
+Developed by 
+Akshat Aundhekar as part of an internship analytics task.
 
